@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dalsiHodina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8efbc040f358bcc9f505bfe54f0b990795e03311")]
 [assembly: System.Reflection.AssemblyProductAttribute("dalsiHodina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dalsiHodina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

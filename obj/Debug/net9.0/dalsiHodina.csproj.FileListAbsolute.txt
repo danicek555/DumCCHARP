@@ -12,3 +12,4 @@
 /Users/danielmitka/Desktop/Csharp/StavbaDomu31.3/obj/Debug/net9.0/dalsiHodina.pdb
 /Users/danielmitka/Desktop/Csharp/StavbaDomu31.3/obj/Debug/net9.0/dalsiHodina.genruntimeconfig.cache
 /Users/danielmitka/Desktop/Csharp/StavbaDomu31.3/obj/Debug/net9.0/ref/dalsiHodina.dll
+/Users/danielmitka/Desktop/Csharp/StavbaDomu31.3/obj/Debug/net9.0/dalsiHodina.sourcelink.json
